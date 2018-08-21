@@ -1,7 +1,5 @@
-# helloworld
-just another repository
+- Montar o layout da página usando como base o arquivo layout.jpg
 
-Olá pessoas!
+- Listar os dados da API do Vagalume utilizando o endpoint no arquivo API.txt
 
-Vitor Hugo aqui, eu gosto de programar.
-SOu estudante de Design Gráfico.
+- Exibir os registros na página conforme o layout
